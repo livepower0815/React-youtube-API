@@ -1,3 +1,4 @@
+import './VideoList.css'
 import React from 'react';
 import VideoItem from './VideoItem'
 
@@ -7,7 +8,9 @@ const VideoList = ({videos, onVideoSelect}) => {
   })
   
   return (
-    <div className="ui divided list">{ videoRender }</div>
+    <div className="ui divided list scroll">
+      { videoRender }
+    </div>
   );
 }
 

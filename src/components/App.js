@@ -22,9 +22,13 @@ class App extends React.Component {
     })
 
     console.log('response', response)
+    const filterVideoAry = response.data.items.filter(item => {
+      return item.id.videoId
+    })
+
     this.setState({
-      videos: response.data.items,
-      selectedVideo: response.data.items[0],
+      videos: filterVideoAry,
+      selectedVideo: filterVideoAry[0],
     })
   }
 
