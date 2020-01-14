@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-youtube-API/build/static/css/main.89ac8fc5.chunk.css",
-    "main.js": "/React-youtube-API/build/static/js/main.900c663d.chunk.js",
-    "main.js.map": "/React-youtube-API/build/static/js/main.900c663d.chunk.js.map",
+    "main.css": "/React-youtube-API/build/static/css/main.ac096412.chunk.css",
+    "main.js": "/React-youtube-API/build/static/js/main.30b7d756.chunk.js",
+    "main.js.map": "/React-youtube-API/build/static/js/main.30b7d756.chunk.js.map",
     "runtime-main.js": "/React-youtube-API/build/static/js/runtime-main.3cdd9dad.js",
     "runtime-main.js.map": "/React-youtube-API/build/static/js/runtime-main.3cdd9dad.js.map",
     "static/js/2.f1b9daee.chunk.js": "/React-youtube-API/build/static/js/2.f1b9daee.chunk.js",
     "static/js/2.f1b9daee.chunk.js.map": "/React-youtube-API/build/static/js/2.f1b9daee.chunk.js.map",
     "index.html": "/React-youtube-API/build/index.html",
-    "precache-manifest.2abcfc6c5019e4ca7f49ebce3d105035.js": "/React-youtube-API/build/precache-manifest.2abcfc6c5019e4ca7f49ebce3d105035.js",
+    "precache-manifest.f599eeb89c2bf3b42436fad9934cfafd.js": "/React-youtube-API/build/precache-manifest.f599eeb89c2bf3b42436fad9934cfafd.js",
     "service-worker.js": "/React-youtube-API/build/service-worker.js",
-    "static/css/main.89ac8fc5.chunk.css.map": "/React-youtube-API/build/static/css/main.89ac8fc5.chunk.css.map"
+    "static/css/main.ac096412.chunk.css.map": "/React-youtube-API/build/static/css/main.ac096412.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3cdd9dad.js",
     "static/js/2.f1b9daee.chunk.js",
-    "static/css/main.89ac8fc5.chunk.css",
-    "static/js/main.900c663d.chunk.js"
+    "static/css/main.ac096412.chunk.css",
+    "static/js/main.30b7d756.chunk.js"
   ]
 }
